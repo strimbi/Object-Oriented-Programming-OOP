@@ -1,0 +1,10 @@
+1 Zara S albastru 12 345 True
+2 Vouge M roz 33 340 False
+3 Hfewe L mov 6 123 True
+4 JFe XS roz 5 105 True
+5 Tye M verde 4 650 False
+6 Tyew XL roz 11 435 False
+7 CJD M verde 3 635 True
+8 JFE L maro 32 546 True
+9 fdhe XL roz 32 954 False
+10 Maje M verde 12 843 True
