@@ -1,0 +1,15 @@
+Bacteria
+In a biological research laboratory, a study is carried out on a colony of bacteria identified by name, 
+age (expressed in units of time) and type (type 1 or type 2). 
+Type 1 bacteria can multiply by division (giving rise to two daughter bacteria that are identical to the
+parent bacteria and take the place of the parent bacteria). 
+Type 2 bacteria can multiply by budding (the formation of a new bacterium, of the opposite type to the 
+parent bacterium, on the body of the parent bacterium and its detachment after 3-time units, 
+at which point the newly created bacterium is positioned to the right of the parent bacterium). 
+Researchers place bacteria on a slide and let them evolve for k-time units, their goal being to 
+observe the evolution of the bacteria under a microscope. Make an app that helps researchers study bacteria and allows you to:
+
+• "microscopic visualization" of the bacteria initially placed on the coverslip
+• "viewing under a microscope" the bacteria (of a certain type) initially placed on the coverslip
+• "microscopic visualization" of the bacteria on the coverslip after a certain number of time units
+• establishing the average life span of the bacteria present on the slide at a certain point in time
